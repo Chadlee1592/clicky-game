@@ -7,3 +7,18 @@
     margin-bottom: 50px;
   }
   
+.score {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+}  
+
+.left {
+  position: relative;
+  right:10%;
+}
+
+.right {
+  position: relative;
+  left: 10%;
+}
