@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Aatrox",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bard",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Caitlyn",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Darius",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ekko",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg" 
+    },
+    {
+        "id": 6,
+        "name": "Fiora",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg" 
+    },
+    {
+        "id": 7,
+        "name": "Galio",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg" 
+    },
+    {
+        "id": 8,
+        "name": "Hecarim",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_0.jpg" 
+    },
+    {
+        "id": 9,
+        "name": "Illaoi",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_0.jpg" 
+    },
+    {
+        "id": 10,
+        "name": "Jarvan",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_0.jpg" 
+    },
+    {
+        "id": 11,
+        "name": "Karma",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_0.jpg" 
+    },
+    {
+        "id": 12,
+        "name": "Lissandra",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg" 
+    },
+    {
+        "id": 13,
+        "name": "Master Yi",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_0.jpg" 
+    },
+    {
+        "id": 14,
+        "name": "Olaf",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg" 
+    },
+    {
+        "id": 15,
+        "name": "Renekton",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg" 
+    }
+]
